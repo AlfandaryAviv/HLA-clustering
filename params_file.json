@@ -1,0 +1,5 @@
+{
+  "data_file": "new_data_geno_5_races.txt",
+  "resolution": [2,0.3, 0.03, 0.005, 0.0001,0.00001,0.000001,0.0000001],
+  "weights": [1]
+}
